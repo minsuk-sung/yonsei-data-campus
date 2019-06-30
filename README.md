@@ -1,3 +1,5 @@
+![kdata](http://bigjob.dbguide.net/wp-content/themes/db_academy/assets/images/logo.png)
+
 # BIGDATA X 연세대학교
 
 ## 파이썬 기반의 빅데이터 분석 처리 과정
